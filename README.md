@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend developer with several years of experience  
+- 💻 Frontend developer experienced in delivering scalable applications across diverse products and teams  
 - ⚛️ Specialized in **React** & **Next.js**  
 - 🎨 Passionate about clean UI with **TailwindCSS**  
 - 🔧 Comfortable working across the stack (frontend + backend)  
