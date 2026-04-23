@@ -37,7 +37,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XAVIGUASCHE&theme=tokyonight&hide_border=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xaviguasch" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -54,11 +54,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/xavi-guasch/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/xavi-guasch/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:xaviguasch@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Say%20Hello-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
